@@ -16,13 +16,34 @@ a:hover {
 }
 
 .heading {
-	height:337px;
+	height:946px;
 	width:240px;
 	padding:10px;
 	border:5px solid green;
+	border-radius:25px 0px 0px 25px;
 	margin:auto;
 	text-align:center;
 	float:left;
+}
+
+.email-logo {
+	height:13px;
+	width:18px;
+}
+
+.facebook-logo {
+	height:20px;
+	width:20px;
+}
+
+.instagram-logo {
+	height:20px;
+	width:20px;
+}
+
+.linkedin-logo {
+	height:20px;
+	width:20px;
 }
 
 .contact {
@@ -31,17 +52,19 @@ a:hover {
 }
 
 .description {
-	width:960px;
+	width:940px;
 	padding:10px;
 	border:5px solid green;
+	border-radius:0px 25px 0px 0px;
 	margin:auto;
 	text-align:center;
 }
 
 .interests {
-	width:960px;
+	width:940px;
 	padding:10px;
 	border:5px solid green;
+	border-radius:0px 0px 0px 0px;
 	margin:auto;
 	text-align:center;
 }
@@ -82,4 +105,84 @@ a:hover {
 .video-games {
 	font-weight:bold;
 	display:inline-block;
+}
+
+.volleyball {
+	font-weight:bold;
+	display:inline-block;
+}
+
+.my-life {
+	height:500px;
+	width:940px;
+	padding:10px;
+	border:5px solid green;
+	border-radius:0px 0px 25px 0px;
+	margin:auto;
+	text-align:center;
+}
+
+.sword-pic {
+	width:250px;
+	height:180px;
+	float:left;
+	padding:25px 10px 25px 75px;
+	display:block;
+}
+
+.yl {
+	width:0px;
+	height:0px;
+	margin:0px 0px 0px 0px;
+	display:block;
+}
+
+.yl-pic {
+	width:250px;
+	height:180px;
+	margin:0px 0px 0px 0px;
+	padding:25px 10px 25px 10px;
+	display:block;
+}
+
+.shelter-pic {
+	width:250px;
+	height:180px;
+	float:right;
+	padding:25px 75px 25px 0px;
+	display:block;
+}
+
+.vball-pic {
+	width:250px;
+	height:180px;
+	display:block;
+	float:left;
+	padding:0px 10px 25px 75px;
+	flex-wrap:wrap;
+}
+
+.drawing {
+	width:0px;
+	height:0px;
+	margin:205px 0px 0px 0px;
+	display:block;
+	flex-wrap:wrap;
+}
+
+.drawing-pic {
+	width:250px;
+	height:180px;
+	margin:0px 0px 0px 0px;
+	padding:25px 10px 25px 10px;
+	display:block;
+	flex-wrap:wrap;
+}
+
+.parkour-pic {
+	width:250px;
+	height:180px;
+	float:right;
+	padding:0px 75px 25px 0px;
+	display:block;
 }
