@@ -53,6 +53,7 @@ a:hover {
 
 .description {
 	width:940px;
+	margin: 0px 0px 0px 300px;
 	padding:10px;
 	border:5px solid green;
 	border-radius:0px 25px 0px 0px;
@@ -62,6 +63,7 @@ a:hover {
 
 .interests {
 	width:940px;
+	margin: 0px 0px 0px 300px;
 	padding:10px;
 	border:5px solid green;
 	border-radius:0px 0px 0px 0px;
@@ -115,6 +117,7 @@ a:hover {
 .my-life {
 	height:500px;
 	width:940px;
+	margin: 0px 0px 0px 300px;
 	padding:10px;
 	border:5px solid green;
 	border-radius:0px 0px 25px 0px;
