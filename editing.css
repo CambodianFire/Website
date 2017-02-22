@@ -1,6 +1,10 @@
 img {
-	width:100px;
-	height:100px;
+	width:150px;
+	height:150px;
+}
+
+#v1 {
+	margin:25px 0px 0px 0px;
 }
 
 a {
@@ -16,14 +20,15 @@ a:hover {
 }
 
 .heading {
-	height:946px;
+	height:400px;
 	width:240px;
 	padding:10px;
 	border:5px solid green;
-	border-radius:25px 0px 0px 25px;
+	border-radius:25px 25px 25px 25px;
 	margin:auto;
 	text-align:center;
 	float:left;
+	position:fixed;
 }
 
 .email-logo {
@@ -53,21 +58,19 @@ a:hover {
 
 .description {
 	width:940px;
-	margin: 0px 0px 0px 300px;
 	padding:10px;
 	border:5px solid green;
-	border-radius:0px 25px 0px 0px;
-	margin:auto;
+	border-radius:25px 25px 0px 0px;
+	margin:0px 0px 0px 280px;
 	text-align:center;
 }
 
 .interests {
 	width:940px;
-	margin: 0px 0px 0px 300px;
 	padding:10px;
 	border:5px solid green;
 	border-radius:0px 0px 0px 0px;
-	margin:auto;
+	margin:0px 0px 0px 280px;
 	text-align:center;
 }
 
@@ -117,11 +120,10 @@ a:hover {
 .my-life {
 	height:500px;
 	width:940px;
-	margin: 0px 0px 0px 300px;
 	padding:10px;
 	border:5px solid green;
-	border-radius:0px 0px 25px 0px;
-	margin:auto;
+	border-radius:0px 0px 25px 25px;
+	margin:0px 0px 0px 280px;
 	text-align:center;
 }
 
@@ -129,7 +131,7 @@ a:hover {
 	width:250px;
 	height:180px;
 	float:left;
-	padding:25px 10px 25px 75px;
+	padding:0px 10px 25px 75px;
 	display:block;
 }
 
@@ -144,7 +146,7 @@ a:hover {
 	width:250px;
 	height:180px;
 	margin:0px 0px 0px 0px;
-	padding:25px 10px 25px 10px;
+	padding:0px 10px 25px 10px;
 	display:block;
 }
 
@@ -152,7 +154,7 @@ a:hover {
 	width:250px;
 	height:180px;
 	float:right;
-	padding:25px 75px 25px 0px;
+	padding:0px 75px 25px 0px;
 	display:block;
 }
 
@@ -168,7 +170,7 @@ a:hover {
 .drawing {
 	width:0px;
 	height:0px;
-	margin:205px 0px 0px 0px;
+	margin:180px 0px 0px 0px;
 	display:block;
 	flex-wrap:wrap;
 }
