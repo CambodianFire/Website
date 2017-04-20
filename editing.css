@@ -128,7 +128,7 @@ a:hover {
 }
 
 .my-life {
-	height:500px;
+	height:520px;
 	width:940px;
 	padding:10px;
 	border:5px solid black;
@@ -139,11 +139,19 @@ a:hover {
 	box-shadow: 10px 10px 5px #888888;
 }
 
+.friendHeading {
+	padding:0px 200px 0px 165px;
+}
+
+.ylHeading {
+	padding:0px 200px 0px 0px;
+}
+
 .sword-pic {
 	width:250px;
 	height:180px;
 	float:left;
-	padding:0px 10px 25px 75px;
+	padding:0px 10px 15px 75px;
 	display:block;
 }
 
@@ -158,7 +166,7 @@ a:hover {
 	width:240px;
 	height:180px;
 	margin:0px 0px 0px 0px;
-	padding:0px 10px 25px 10px;
+	padding:0px 10px 15px 10px;
 	display:block;
 }
 
@@ -166,10 +174,17 @@ a:hover {
 	width:250px;
 	height:180px;
 	float:right;
-	padding:0px 85px 25px 0px;
+	padding:0px 85px 15px 0px;
 	display:block;
 }
 
+.vballHeading {
+	padding:0px 200px 0px 155px;
+}
+
+.drawingsHeading {
+	padding:0px 200px 0px 0px;
+}
 .vball-pic {
 	width:250px;
 	height:180px;
@@ -182,7 +197,7 @@ a:hover {
 .drawing {
 	width:0px;
 	height:0px;
-	margin:180px 0px 0px 0px;
+	margin:0px 0px 0px 0px;
 	display:block;
 	flex-wrap:wrap;
 }
@@ -191,7 +206,7 @@ a:hover {
 	width:240px;
 	height:180px;
 	margin:0px 0px 0px 0px;
-	padding:25px 10px 25px 10px;
+	padding:0px 10px 25px 10px;
 	display:block;
 	flex-wrap:wrap;
 }
