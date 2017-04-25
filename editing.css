@@ -65,17 +65,21 @@ a:hover {
 .welcome {
 	text-align:left;
 	font-family:helvetica;
+	margin:0px 0px 0px 280px;
 }
 
 .resume {
+	margin:0px 0px 0px 280px;
 	font-weight:bold;
 }
 
 .caseStudy {
+	margin:0px 0px 0px 280px;
 	font-weight:bold;
 }
 
 .video {
+	margin:0px 0px 0px 280px;
 	text-align:left;
 }
 
