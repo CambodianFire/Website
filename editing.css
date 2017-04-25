@@ -67,6 +67,18 @@ a:hover {
 	font-family:helvetica;
 }
 
+.resume {
+	font-weight:bold;
+}
+
+.caseStudy {
+	font-weight:bold;
+}
+
+.video {
+	text-align:center;
+}
+
 .description {
 	width:940px;
 	padding:10px;
