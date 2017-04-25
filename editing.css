@@ -65,18 +65,26 @@ a:hover {
 .welcome {
 	text-align:left;
 	font-family:helvetica;
+	margin:0px 0px 0px 80px;
+}
+
+.descP {
+	margin:0px 0px 0px 80px;
 }
 
 .resume {
 	font-weight:bold;
+	margin:0px 0px 0px 80px;
 }
 
 .caseStudy {
 	font-weight:bold;
+	margin:0px 0px 0px 80px;
 }
 
 .video {
 	text-align:left;
+	margin:0px 0px 0px 80px;
 }
 
 .description {
@@ -84,7 +92,7 @@ a:hover {
 	padding:10px;
 	border:5px solid black;
 	border-radius:25px 25px 0px 0px;
-	margin:0px 0px 0px 350px;
+	margin:0px 0px 0px 280px;
 	text-align:left;
 	font-family:arial;
 	box-shadow:10px 10px 10px #888888;
