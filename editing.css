@@ -62,6 +62,11 @@ a:hover {
 	text-align:left;
 }
 
+.h1 {
+	text-align:left;
+	font-family:helvetica;
+}
+
 .description {
 	width:940px;
 	padding:10px;
