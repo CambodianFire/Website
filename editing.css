@@ -96,8 +96,8 @@ a:hover {
 	border:5px solid black;
 	border-radius:0px 0px 0px 0px;
 	margin:0px 0px 0px 280px;
-	text-align:center;
-	font-family:arial;
+	text-align:left;
+	font-family:helvetica;
 	box-shadow:10px 10px 10px #888888;
 }
 
@@ -151,8 +151,8 @@ a:hover {
 	border:5px solid black;
 	border-radius:0px 0px 25px 25px;
 	margin:0px 0px 0px 280px;
-	text-align:center;
-	font-family:arial;
+	text-align:left;
+	font-family:helvetica;
 	box-shadow: 10px 10px 5px #888888;
 }
 
