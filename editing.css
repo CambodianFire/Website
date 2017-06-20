@@ -62,6 +62,11 @@ a:hover {
 	text-align:left;
 }
 
+.ftf {
+	width:800px;
+	height:200px;
+}
+
 .welcome {
 	text-align:left;
 	font-family:helvetica;
